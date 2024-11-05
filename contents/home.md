@@ -1,6 +1,6 @@
 
 
-[![Wanglab](https://github.com/Nina12322/wanglab.github.io?tab=readme-ov-file)](https://github.com/Nina12322/wanglab.github.io)
+[![Wanglab422](https://github.com/Wanglab422/Wanglab422.github.io)](https://github.com/Wanglab422/Wanglab422.github.io)
 
 Xiaohong Wang, PhD
 Professor
