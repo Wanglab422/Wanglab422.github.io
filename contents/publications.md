@@ -1,6 +1,6 @@
 X Dong, Y Song, Y Liu, X Kou, T Yang, Samuel X Shi, K He, Y Li, Z Li, X Yao, J Guo, B Cui, Z Wu, Y Lei,M Du, M Chen,H Xu, Q Liu, F Shi,<strong>X* Wang</strong>, H* Yan. Natural killer cells promote neutrophil extracellular traps and restrain macular degeneration in mice.Science Translational Medicine.Aug 2024[[Code]](https://www.science.org/doi/10.1126/scitranslmed.adi6626?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-Y Lei, Q Liu, F Wu, B Chen, Y Li, X Dong, N Ma, Z Wu, Y Zhu, L Wang, Y Fu, Y Liu, Y Song, M Du, H Zhang, J Zhu, T J Lyons, T Wang, J Hu, H Xu, M Chen, H* Yan, <strong>X* Wang</strong>. Protein O-GlcNAcylation coupled to Hippo signaling drives vascular dysfunction in diabetic retinopathy.Nature Communications.Oct 2024 [[Code]](https://www.nature.com/articles/s41467-024-53601-x)
+-Y Lei, Q Liu, F Wu, B Chen, Y Li, X Dong, N Ma, Z Wu, Y Zhu, L Wang, Y Fu, Y Liu, Y Song, M Du, H Zhang, J Zhu, T J Lyons, T Wang, J Hu, H Xu, M Chen, H* Yan, <strong>X* Wang</strong>. Protein O-GlcNAcylation coupled to Hippo signaling drives vascular dysfunction in diabetic retinopathy.Nature Communications.Oct 2024 [[Code]](https://www.nature.com/articles/s41467-024-53601-x)
 
 X Yao, Z Li, Y Lei, Q Liu, S Chen, H Zhang, X Dong , K He , J Guo, M Li,<strong> X* Wang</strong>, H Yan. Single-Cell Multiomics Profiling Reveals Heterogeneity of Müller Cells in the Oxygen-Induced Retinopathy Model.Invest Ophthalmol Vis Sci.Nov 2024[[Code]](https://iovs.arvojournals.org/article.aspx?articleid=2802203)
 
