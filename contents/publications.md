@@ -1,6 +1,6 @@
-- X Yao, Z Li, Y Lei, Q Liu, S Chen, H Zhang, X Dong , K He , J Guo, M Li,<strong> X* Wang<strong>, H Yan. Single-Cell Multiomics Profiling Reveals Heterogeneity of Müller Cells in the Oxygen-Induced Retinopathy Model.Invest Ophthalmol Vis Sci.Nov 2024[[Code]](https://iovs.arvojournals.org/article.aspx?articleid=2802203)
+- X Yao, Z Li, Y Lei, Q Liu, S Chen, H Zhang, X Dong , K He , J Guo, M Li,<strong> X* Wang</strong>, H Yan. Single-Cell Multiomics Profiling Reveals Heterogeneity of Müller Cells in the Oxygen-Induced Retinopathy Model.Invest Ophthalmol Vis Sci.Nov 2024[[Code]](https://iovs.arvojournals.org/article.aspx?articleid=2802203)
 
-- N Ma, F Wu, J Liu, Z Wu, L Wang, B Li, Y Liu, X Dong, J Hu, X Fang, H Zhang, D Ai, J* Zhou, <strong>X* Wang<strong>. Kindlin-2 phase separation controls vascular stability and is regulated by arginine methylation in response to shear stress. Circulation Research.Nov 2024 [[Code]](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.124.324773)
+- N Ma, F Wu, J Liu, Z Wu, L Wang, B Li, Y Liu, X Dong, J Hu, X Fang, H Zhang, D Ai, J* Zhou, <strong>X* Wang</strong>. Kindlin-2 phase separation controls vascular stability and is regulated by arginine methylation in response to shear stress. Circulation Research.Nov 2024 [[Code]](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.124.324773)
 
 - Y Lei, Q Liu, F Wu, B Chen, Y Li, X Dong, N Ma, Z Wu, Y Zhu, L Wang, Y Fu, Y Liu, Y Song, M Du, H Zhang, J Zhu, T J Lyons, T Wang, J Hu, H Xu, M Chen, H* Yan, <strong>X* Wang</strong>. Protein O-GlcNAcylation coupled to Hippo signaling drives vascular dysfunction in diabetic retinopathy.Nature Communications.Oct 2024 [[Code]](https://www.nature.com/articles/s41467-024-53601-x)
 
@@ -8,4 +8,4 @@
 
 - M Liao, X Zhu, Y Lu, X Yi, Y Hu, Y Zhao, Z Ye, X Guo, M Liang, X Jin, H Zhang, <strong>X* Wang</strong>, Z Zhao, Y Chen, H Yan. Multi-omics profiling of retinal pigment epithelium reveals enhancer-driven activation of RANK-NFATc1 signaling in traumatic proliferative vitreoretinopathy.Nature Communications.Aug 2024[[Code]](https://www.nature.com/articles/s41467-024-51624-y)
 
-B Cui, X Guo, W Zhou, X Zhang, K He, T Bai, D Lin,W Zhang, Y Zhao, S Liu, H Zhou, Q Wan, X Yao, Y Shi, R Xie, X Dong, Y Lei, M Du, Y Chang, H Xu, D Zhou, Y Yu, <strong>X* Wang</strong>,H* Yan. Exercise alleviates neovascular age-related macular degeneration by inhibiting AIM2 inflammasome in myeloid cells.metabolism.Jul 2023[[Code]](https://www.metabolismjournal.com/article/S0026-0495(23)00187-7/fulltext)
+- B Cui, X Guo, W Zhou, X Zhang, K He, T Bai, D Lin,W Zhang, Y Zhao, S Liu, H Zhou, Q Wan, X Yao, Y Shi, R Xie, X Dong, Y Lei, M Du, Y Chang, H Xu, D Zhou, Y Yu, <strong>X* Wang</strong>,H* Yan. Exercise alleviates neovascular age-related macular degeneration by inhibiting AIM2 inflammasome in myeloid cells.metabolism.Jul 2023[[Code]](https://www.metabolismjournal.com/article/S0026-0495(23)00187-7/fulltext)
